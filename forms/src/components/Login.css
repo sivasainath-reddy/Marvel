@@ -1,0 +1,31 @@
+.page{
+    margin-top: 50%;
+    display: flex;
+    height: 50vh;
+    border: 1px solid black;
+    width: 350px;
+    justify-content: center;
+    padding: 20px;
+    background: #3ddf5589;
+    align-items: center;
+}
+.btn button{
+    width: 100%;
+    background: rgba(49, 181, 237, 0.611);
+    border: none;
+}
+.input label {
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+}
+.page h3{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+.btn{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
